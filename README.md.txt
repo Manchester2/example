@@ -1,3 +1,4 @@
 # Example Site
 
-Thi is a sample reading file. Learning.
+This is a sample reading file. Learning
+Corrected 
