@@ -51,3 +51,16 @@ Adding Tablses
 1. Item one 
 2. Item Two 
 3. Item Three
+
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote. 
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media 
+
+
+term
+: definition 
